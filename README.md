@@ -1,2 +1,2 @@
 # Solve-SLE-on-Go-lang-
-Solving systems of linear equations by Gauss method with parallel computation on Go Lang
+Solving systems of linear equations by Gauss and Kramer methods with parallel computation on Golang
